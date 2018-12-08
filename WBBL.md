@@ -8,6 +8,6 @@
   * [SIX v THU](https://cricketwbbltemp-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
   * https://acricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
 
-[![Thunder](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Thunder.ashx?mw=30) v 
-![Sixers](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Sixers.ashx?mw=30)
-](https://acricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
+![Thunder](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Thunder.ashx?mw=30) |
+![Sixers](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Sixers.ashx?mw=30) |
+[Link](https://acricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
