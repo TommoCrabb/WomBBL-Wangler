@@ -1,9 +1,6 @@
 # 2018-12-07
-
-SCO v SIX
-
-https://acricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_1/chunklist_dvr.m3u8
-
+[SCO v SIX]
+(https://acricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
 # 2018-12-08 
 
 * STR v REN
