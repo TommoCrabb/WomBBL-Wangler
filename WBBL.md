@@ -16,3 +16,5 @@ https://cricketalive2-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southea
 https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
 
 https://cricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
+
+https://cricketalive1-a.akamaihd.net/87758ec0a87a4f06b8a09fbbbe20cd7e/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
