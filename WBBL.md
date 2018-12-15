@@ -9,19 +9,16 @@ BAT1 | W | R | O | BAT2 | W | R | O | LINK | PLAY | NOTES
 ![RENEGADES](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Melbourne%20Renegades.ashx?mw=40) | 4 | 83 | 14.3 | ![STRIKERS](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Adelaide%20Strikers.ashx?mw=40) | 2 | 27 | 4.3 | [2018-12-09](https://live.cricket.com.au/match/2204/43920/melbourne-renegades-women-vs-adelaide-strikers-women-rebel-wbbl-04/scorecard) | [PLAY](https://acricketalive1-a.akamaihd.net/ccf21aa67b3942d5850a02f1acc35dd3/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8) | RAINED OUT
 ![THUNDER](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Thunder.ashx?mw=40) | 4 | **192** | 20.0 | ![HEAT](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Brisbane%20Heat.ashx?mw=40) | @ | 164 | 18.5 | [2018-12-09](https://live.cricket.com.au/match/2204/43922/sydney-thunder-women-vs-brisbane-heat-women-rebel-wbbl-04/scorecard) | [PLAY](https://acricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
 
-9:00 AM Saturday 15th December
-
-https://cricketalive2-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8?hdnea=st=1544824800~exp=1544839200~acl=/*~hmac=ad676709873f2c21a93f03b36986e787369f707e3290b8535df177d4449644e8
-
+# 15th
+## SCO v STA
 https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
-
-https://cricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
-
+## THU v STR
 https://cricketalive1-a.akamaihd.net/87758ec0a87a4f06b8a09fbbbe20cd7e/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
+## HUR v SIX
+https://cricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
 
-https://cricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_2/chunklist_dvr.m3u8
-
-# 19th
+# 16th
 ## STA v SCO
 https://cricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
 ## THU v STR
+https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
