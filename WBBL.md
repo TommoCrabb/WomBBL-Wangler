@@ -25,3 +25,4 @@ https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southea
 ## HEA v REN
 https://cricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
 ## SIX v HUR
+https://cricketalive1-a.akamaihd.net/87758ec0a87a4f06b8a09fbbbe20cd7e/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
