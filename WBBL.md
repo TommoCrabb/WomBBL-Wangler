@@ -15,6 +15,6 @@ BAT1 | W | R | O | BAT2 | W | R | O | LINK | PLAY | NOTES
 ![HEAT](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Brisbane%20Heat.ashx?mw=40) | 8 | **174** | 20.0 | ![RENEGADES](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Melbourne%20Renegades.ashx?mw=40) | 7 | 153 | 20.0 | [2018-12-16](https://live.cricket.com.au/match/2204/43927/melbourne-renegades-women-vs-brisbane-heat-women-rebel-wbbl-04/scorecard) | [PLAY](https://cricketalive1-a.akamaihd.net/2cbb7cf39cd441c38e940ed70d02ee2b/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
 ![SCORCHERS](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Perth%20Scorchers.ashx?mw=40) | 7 | 90 | 20.0 | ![STARS](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Melbourne%20Stars.ashx?mw=40) | 6 | **91** | 15.3 | [2018-12-16](https://live.cricket.com.au/match/2204/43928/melbourne-stars-women-vs-perth-scorchers-women-rebel-wbbl-04/scorecard) | [PLAY](https://cricketalive1-a.akamaihd.net/42270985c34a41578bfb1cbe1db10c84/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
 ![SIXERS](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Sixers.ashx?mw=40) | 3 | **158** | 20.0 | ![HURRICANES](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Hobart%20Hurricanes.ashx?mw=40) | @ | 141 | 19.1 |  [2018-12-16](https://live.cricket.com.au/match/2204/43929/hobart-hurricanes-women-vs-sydney-sixers-women-rebel-wbbl-04/scorecard) | [PLAY](https://cricketalive1-a.akamaihd.net/87758ec0a87a4f06b8a09fbbbe20cd7e/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
-# 16th
-## TEST
-https://cricketalive1-a.akamaihd.net/60ed3764f47147348b806a621d686f2d/ap-southeast-2/5833133821001/profile_1/chunklist_dvr.m3u8
+# 18th
+## SCO v HUR
+https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_2/chunklist_dvr.m3u8
