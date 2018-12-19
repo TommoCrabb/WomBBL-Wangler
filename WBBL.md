@@ -21,3 +21,5 @@ https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southea
 # 19th
 ## HEA v STA
 https://cricketalive1-a.akamaihd.net/c8878014f50e4ecc8cf01af766dc1065/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
+## BBL
+https://cricketbblalive1-a.akamaihd.net/772de86f3a724cdab08f2970173fcc1a/ap-southeast-2/5833133821001/profile_1/chunklist_dvr.m3u8
