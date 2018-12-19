@@ -17,4 +17,7 @@ BAT1 | W | R | O | BAT2 | W | R | O | LINK | PLAY | NOTES
 ![SIXERS](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Sydney%20Sixers.ashx?mw=40) | 3 | **158** | 20.0 | ![HURRICANES](https://www.cricket.com.au/-/media/Logos/Teams/BBL/Hobart%20Hurricanes.ashx?mw=40) | @ | 141 | 19.1 |  [2018-12-16](https://live.cricket.com.au/match/2204/43929/hobart-hurricanes-women-vs-sydney-sixers-women-rebel-wbbl-04/scorecard) | [PLAY](https://cricketalive1-a.akamaihd.net/87758ec0a87a4f06b8a09fbbbe20cd7e/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8)
 # 18th
 ## SCO v HUR
-https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_2/chunklist_dvr.m3u8
+https://cricketalive1-a.akamaihd.net/287264ab14a4481f9a1a437b92b2d1fa/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
+# 19th
+## HEA v STA
+https://cricketalive1-a.akamaihd.net/c8878014f50e4ecc8cf01af766dc1065/ap-southeast-2/5833133821001/profile_0/chunklist_dvr.m3u8
