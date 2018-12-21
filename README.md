@@ -1,3 +1,2 @@
-# hello-world
-Github beginner tutorial
-Editing this file is part of the turorial.
+# Cricket
+A collection of scripts and things related to streaming cricket matches from https://www.cricket.com.au
