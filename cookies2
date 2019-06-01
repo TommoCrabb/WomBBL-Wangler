@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.akt.hotstar-cdn.net	TRUE	/	FALSE	1559443074	hdntl	exp=1559443074~acl=%2f*~data=hdntl~hmac=46c4aad07bf3d7b0092192e61014e66e97784058f6e917b94b8fa3d9751b21f5
+www.hotstar.com	FALSE	/sports/cricket/womens-t20-challenge-2019/final-supernovas-vs-velocity	FALSE	1559356729	AK_SERVER_TIME	1559356669
+www.hotstar.com	FALSE	/sports/cricket/womens-t20-challenge-2019/final-supernovas-vs-velocity	FALSE	0	geo	IN,MH,MUMBAI,18.98,72.83,41146
