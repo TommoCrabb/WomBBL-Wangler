@@ -1,0 +1,1 @@
+mpv --cookies --cookies-file=cookies2 --user-agent='Mozilla/5.0 (X11; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0' 'https://live14.akt.hotstar-cdn.net/hls/live/2003899/icccwc2019/match02/master_3000.m3u8'
